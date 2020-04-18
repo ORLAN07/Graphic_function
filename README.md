@@ -15,4 +15,6 @@ Archivos a ejecutar:
  - python quadratic_function.py
  - python graphic_flat
  
- Este programa grafica una funcion cuadratica en un plato con puntos, aun no traza la linea por motivos de tiempo, pero pone los puntos como se espera...
+ Este programa grafica una funcion cuadratica en un plato con puntos, aun no traza la linea por motivos de tiempo, pero pone los puntos como se espera, por otro lado encuentra las raices de la funcion cuadratica utilizando la formula...
+ 
+ 
