@@ -17,4 +17,5 @@ Archivos a ejecutar:
  
  Este programa grafica una funcion cuadratica en un plato con puntos, aun no traza la linea por motivos de tiempo, pero pone los puntos como se espera, por otro lado encuentra las raices de la funcion cuadratica utilizando la formula...
  
+ (https://github.com/ORLAN07/Graphic_function/blob/master/ecu.png)
  
